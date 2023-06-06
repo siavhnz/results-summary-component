@@ -1,8 +1,9 @@
+import ResultsSummary from "./components/ResultsSummary/ResultsSummary"
 
 
 function App() {
 
-  return <>results summary</>
+  return <ResultsSummary />
 
 }
 
