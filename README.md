@@ -11,6 +11,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [My process](#my-process)
   - [Work time](#work-time)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -25,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](?)
+![screenshot](./screenshot/screenshot.png)
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/?)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/results-summary-component-CI-Nr87wtD)
 
-- Live Site: [cloudflare](https://?.pages.dev)
+- Live Site: [cloudflare](https://results-summary-component-4m6.pages.dev/)
 
 ## My process
 
@@ -47,6 +49,17 @@ Users should be able to:
 
 - [React](https://react.dev/)
 - [TailwindCss](https://tailwindcss.com/)
+
+### What I learned
+
+- Show only rounded corner borders
+- Make a smooth transition on linear gradient
+
+### Useful resources
+
+- [Transitioning gradients](https://keithjgrant.com/posts/2017/07/transitioning-gradients/)
+
+- [Show only corner borders](https://stackoverflow.com/a/14388399)
 
 ## Author
 
