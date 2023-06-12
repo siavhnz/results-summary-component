@@ -41,12 +41,12 @@ Users should be able to:
 
 ### Work Time
 
-- [My Clockify Report](https://app.clockify.me/shared/?)
+- [My Clockify Report](https://app.clockify.me/shared/6486d4a087c43129bce84f62)
 
 ### Built with
 
-- React
-- TailwindCss
+- [React](https://react.dev/)
+- [TailwindCss](https://tailwindcss.com/)
 
 ## Author
 

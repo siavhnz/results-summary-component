@@ -27,7 +27,7 @@ const ResultsSummary = () => {
           summary
         </h2>
         <Summary />
-        <button className="mt-6 flex h-14 w-full items-center justify-center rounded-3xl bg-dark-gray-blue font-Hanken-Grotesk text-lg font-medium capitalize text-white hover:bg-gradient-to-b hover:from-light-slate-blue hover:to-light-royal-blue md:mt-10">
+        <button className="relative z-10 mt-6 flex h-14 w-full items-center justify-center rounded-3xl bg-dark-gray-blue font-Hanken-Grotesk text-lg font-medium capitalize text-white before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:-z-10 before:h-full before:w-full before:rounded-3xl before:bg-gradient-to-t before:from-light-slate-blue before:to-light-royal-blue before:opacity-0 before:transition-opacity before:duration-700 before:content-[''] hover:bg-gradient-to-b  hover:before:opacity-100 md:mt-10">
           continue
         </button>
       </div>
